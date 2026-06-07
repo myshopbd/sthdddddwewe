@@ -1,0 +1,6 @@
+{
+  "name": "Shit Studio",
+  "description": "High-quality Bangladeshi premium clothing boutique e-commerce. Features summer collection 2026, premium tees, stylish wave-pattern shirts, and high-end Panjabi with responsive cart and cash-on-delivery checkout under the Shit Studio branding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
